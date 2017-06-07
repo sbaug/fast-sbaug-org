@@ -2,13 +2,13 @@
 layout: page
 title: Meetings
 permalink: /meetings/
-date:   2016-03-06
+date:   2017-06-06
 ---
 
 ## SBAUG Meetings
 
-We meet monthly.
-Our meetings are usually on the third wednesday of each month at 6:00pm at the Santa Barbara County Genealogical Society, 316 Castillo Street, Santa Barbara, CA, 93101.
+We meet quarterly.
+Our meetings are usually start at 6:00pm at the [Goleta Public Library](http://www.santabarbaraca.gov/gov/depts/lib/locations/goleta.asp).
 
 
-See our [Calendar Page](/calendar/) for info on upcoming meetings.
+Check the Goleta Library calendar page for our next meeting date.
